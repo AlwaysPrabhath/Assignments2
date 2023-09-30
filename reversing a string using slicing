@@ -1,2 +1,2 @@
-a = "Myself Yoshna"[::-1]
+a = "Myself Prabhath"[::-1]
 print(a)
